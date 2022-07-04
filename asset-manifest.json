@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%20//happysol1.github.io/sortAlgorithms/static/css/main.27e98a83.css",
+    "main.js": "/%20//happysol1.github.io/sortAlgorithms/static/js/main.6a5b4831.js",
+    "index.html": "/%20//happysol1.github.io/sortAlgorithms/index.html",
+    "main.27e98a83.css.map": "/%20//happysol1.github.io/sortAlgorithms/static/css/main.27e98a83.css.map",
+    "main.6a5b4831.js.map": "/%20//happysol1.github.io/sortAlgorithms/static/js/main.6a5b4831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27e98a83.css",
+    "static/js/main.6a5b4831.js"
+  ]
+}

@@ -1,0 +1,2 @@
+*{padding:0}*,body{margin:0}body{min-height:100vh}.container{display:flex;flex-direction:column;height:100vh}.controls{background-color:#4169e1;height:50px}.bars{align-items:flex-end;display:flex;flex:1 1 auto;gap:5px;justify-content:center}.bar{background-color:#868585;width:12px}.redBar{background-color:red}.blueBar{background-color:#0027ff}footer{background-color:#4169e1;height:30px;width:100%}
+/*# sourceMappingURL=main.27e98a83.css.map*/
